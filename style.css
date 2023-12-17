@@ -57,7 +57,6 @@ body {
   
   #result {
     background-color: white;
-    font-size:xx-large;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(25px);
@@ -67,7 +66,7 @@ body {
     padding: 20px;
     text-align: center;
     margin-top: 20px;
-    width: 40vw;
+    width: 30vw;
   }
   
   h2 {
