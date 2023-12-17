@@ -19,7 +19,7 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
     text-align: center;
-    width: 400px;
+    width: 500px;
     backdrop-filter: blur(15px);
     background: transparent;
     border: 2px solid white ;
@@ -57,7 +57,7 @@ body {
   
   #result {
     background-color: white;
-    font-size: larger;
+    font-size:xx-large;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(25px);
@@ -67,7 +67,7 @@ body {
     padding: 20px;
     text-align: center;
     margin-top: 20px;
-    width: 30vw;
+    width: 40vw;
   }
   
   h2 {
